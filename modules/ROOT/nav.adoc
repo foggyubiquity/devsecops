@@ -1,2 +1,12 @@
-.xref:index.adoc[In-module page]
-* http://www.keidrych.com[Keidrych's Info]
+* xref:index.adoc[Latest Digitizations]
+
+//.xref:nixos/index.adoc[NixOs]
+
+.xref:containers/index.adoc[Containers]
+* xref:containers/signing-trust.adoc[Container Signing & Trust]
+
+//.xref:kubernetes/index.adoc[Kubernetes]
+
+//. https://www.meetup.com/The-Foggy-Cloud/[Meetup Group (Brisbane)]
+* http://www.keidrych.com[🔗 Author Info]
+

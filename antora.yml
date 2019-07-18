@@ -1,5 +1,5 @@
 name: blog
-title: From the Ether of CyberSpace
+title: Blog
 version: master
 nav:
 - modules/ROOT/nav.adoc
