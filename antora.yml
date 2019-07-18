@@ -1,0 +1,5 @@
+name: blog
+title: From the Ether of CyberSpace
+version: master
+nav:
+- modules/ROOT/nav.adoc

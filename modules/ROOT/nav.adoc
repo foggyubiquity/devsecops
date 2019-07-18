@@ -1,0 +1,2 @@
+.xref:index.adoc[In-module page]
+* http://www.keidrych.com[Keidrych's Info]

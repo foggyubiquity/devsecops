@@ -1,0 +1,8 @@
+= The title of my new page
+:attribute-a: value-a
+
+Welcome to the preamble of my new page!
+
+== This is a section title
+
+This is a paragraph.
