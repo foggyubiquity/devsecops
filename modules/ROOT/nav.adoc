@@ -5,8 +5,8 @@
 .xref:containers/index.adoc[Containers]
 * xref:containers/signing-trust.adoc[Signing & Trust]
 
-//.xref:kubernetes/index.adoc[Kubernetes]
+.xref:kubernetes/index.adoc[Kubernetes]
 
-//. https://www.meetup.com/The-Foggy-Cloud/[Meetup Group (Brisbane)]
+//.https://www.meetup.com/The-Foggy-Cloud/[Meetup Group (Brisbane)]
 * http://www.keidrych.com[🔗 Author Info]
 
