@@ -1,0 +1,5 @@
+= Cyberspace's Ether: *Continuous Integration*
+Keidrych Anton-Oates <me@keidrych.com>
+
+CAUTION: Placeholder for CI Resources
+

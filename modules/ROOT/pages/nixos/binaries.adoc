@@ -1,0 +1,8 @@
+= Binaries
+Keidrych Anton-Oates <me@keidrych.com>
+
+https://cachix.org/
+https://brianmckenna.org/blog/running_binaries_on_nixos
+https://discourse.nixos.org/t/how-to-install-github-released-binary/1328/5
+https://nixos.wiki/wiki/Packaging/Binaries
+

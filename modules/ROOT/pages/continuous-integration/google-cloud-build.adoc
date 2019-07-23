@@ -1,0 +1,9 @@
+= Cyberspace's Ether: *Google Cloud Build*
+Keidrych Anton-Oates <me@keidrych.com>
+
+https://stackoverflow.com/questions/51861870/github-cloud-build-integration-with-multiple-cloudbuild-yamls-in-monorepo
+
+Locate changed file directories
+----
+dirname $(git diff --name-only HEAD HEAD^)
+----

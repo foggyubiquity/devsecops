@@ -1,0 +1,11 @@
+= Cyberspace's Ether: *Performance*
+Keidrych Anton-Oates <me@keidrych.com>
+
+CAUTION: Placeholder for CD Resources
+
+https://www.howtoforge.com/linux-taskset-command/
+https://github.com/mcollina/autocannon
+http://store.tomandmiu.com/cal-amc.php
+
+* taskset @ nixos nixos.utillinux @ alpine util-linux
+* S6 to detect environment, start autocannon on 2nd processor, always bind node to first processor in instance

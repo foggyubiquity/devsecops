@@ -1,0 +1,4 @@
+= Cyberspace's Ether: *Cirrus CI*
+Keidrych Anton-Oates <me@keidrych.com>
+
+https://cirrus-ci.org/guide/linux/

@@ -1,0 +1,7 @@
+= Cyberspace's Ether: *Antora*
+Keidrych Anton-Oates <me@keidrych.com>
+
+https://medium.com/codeshake/replace-your-wiki-with-a-documentation-site-4f0da329fe92
+https://github.com/couchbase/docs-ui/search?utf8=%E2%9C%93&q=toc&type=
+https://cb-docs-ui.netlify.com/#_admonition_blocks
+http://hyperpolyglot.org/lightweight-markup

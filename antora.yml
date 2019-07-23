@@ -1,5 +1,5 @@
-name: blog
-title: Blog
+name: devsecops
+title: DevSecOps
 version: master
 nav:
 - modules/ROOT/nav.adoc

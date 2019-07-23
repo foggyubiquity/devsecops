@@ -2,18 +2,27 @@
 Keidrych Anton-Oates <me@keidrych.com>
 :description: DockerHub provides a lesser known feature for Container Image Signing via Notary, understand the practical and suitable use-cases of this technology over standard unsigned containers.
 :keywords: docker, signing, container
+:toc: ~
+
+https://www.redhat.com/en/blog/container-image-signing
+https://csrc.nist.gov/CSRC/media/Publications/white-paper/2018/01/26/security-considerations-for-code-signing/final/documents/security-considerations-for-code-signing.pdf
+https://theupdateframework.github.io/
+https://github.com/openfaas/faas-cli/issues/608
+https://sathyasays.com/2019/03/12/setting-up-a-secure-docker-image-scanning-solution-with-anchore-and-drone-ci/
+https://docs.docker.com/engine/security/trust/trust_key_mng/
+https://github.com/goharbor/harbor/blob/master/docs/user_guide.md
+https://docs.docker.com/notary/getting_started/
+
 
 == Situational Awareness
 
-As technology re-invents itself in the ether, we re-encounter situations that previously well-working solutions were provided for. One such situation is Signing of Containers.
+Humans make the majority of their decisions based on trust. What earns our trust has the highest influence of success, the problem is that while generally we are trusting creatures there are a few outliners who seek to abuse that trust. Signing of anything is about ensuring that the person who claims to have authored it actually has.
 
-=== Concept
+But this is only one side of the equation. The other, after ensuring the person did what they claim to, relies on if that person is actually trustworthy.
 
-Signing of work has been around for eons. Artists sign their crafter masterpieces, and developers using any version control system attach their name on each commit. We _trust_ these names as we have not been given a reson not to. Unfortunately _trust_ can often be misplaced and explioted with melicious actors.
+Security & Trust is a continual discu
 
-This previntion of exploitation requires proof that the person who claims to have authored something now proove undeniably that their work is indeed their own and not anothers masquerading as theirs. In CyberSpace we use GnuPG keys (or alternative key implementation) to sign code commits. A process that is rapidly becoming more mandatory than optional for developers due to the sensitivity of Personally Identifiable Information (PII) and PCI regulations.
-
-=== Extending Signing to Containers
+RedHat talks in 2016 about their approach to conainer signing.
 
 If individual code commits are capable of being signed against a person, then shouldn't the aggregation of code be signed against a team, and each piece of the operating system signed to form a complete picture?
 

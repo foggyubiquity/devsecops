@@ -1,0 +1,7 @@
+= Cyberspace's Ether: *direnv*
+Keidrych Anton-Oates <me@keidrych.com>
+
+http://www.futurile.net/2016/02/03/automating-environment-setup-with-direnv/
+https://github.com/direnv/direnv.vim
+
+
