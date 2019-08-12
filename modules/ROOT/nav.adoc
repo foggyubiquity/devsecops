@@ -12,6 +12,3 @@
 .xref:continuous-deployment/index.adoc[4. Continuous Deployment]
 * xref:continuous-deployment/getting-started.adoc[Getting Started]
 
-* https://www.meetup.com/The-Foggy-Cloud/[Meetup Group (Brisbane)]
-* http://www.keidrych.com[🔗 Author Info]
-

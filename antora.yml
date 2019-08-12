@@ -3,4 +3,5 @@ title: DevSecOps
 version: master
 nav:
 - modules/ROOT/nav.adoc
-- presentations.adoc
+- meetups.adoc
+#- presentations.adoc
