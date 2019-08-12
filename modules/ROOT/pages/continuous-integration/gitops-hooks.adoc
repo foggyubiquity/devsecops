@@ -1,0 +1,4 @@
+= GitOps Hooks
+Keidrych Anton-Oates <me@keidrych.com>
+
+https://github.com/dirk/quickhook/

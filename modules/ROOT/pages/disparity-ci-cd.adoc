@@ -1,0 +1,6 @@
+== CI != CD
+
+Continuous Integration (CI) has been around for a long time, so long that its _almost_ omnipresent in software development. Continuous Delivery / Deployment, however are not. As most software houses internal or external and the same answer is surfaced. CI / CD, both bundled together as though one is the other yet they are intrinsically different.
+
+The splitting point between `container` and `component` typically has a line of demarkation drawn between the need for an internal data model and direct algorithmic processing.
+

@@ -1,0 +1,8 @@
+= GitOps BugTracking
+Keidrych Anton-Oates <me@keidrych.com>
+
+https://github.com/MichaelMure/git-bug
+
+https://github.com/dspinellis/git-issue <= for discussion / git-bug is better choice
+
+TODO: https://github.com/stevemao/awesome-git-addons
