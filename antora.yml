@@ -4,4 +4,4 @@ version: master
 nav:
 - modules/ROOT/nav.adoc
 - meetups.adoc
-#- presentations.adoc
+- presentations.adoc

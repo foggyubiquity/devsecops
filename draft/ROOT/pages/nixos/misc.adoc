@@ -1,0 +1,4 @@
+https://github.com/nix-community/nur-combined/search?q=firefox+extension&unscoped_q=firefox+extension
+fluffynukeit.com/installing-essential-software-in-nixos/
+https://nixos.org/nixos/options.html
+
