@@ -2,4 +2,5 @@
 * Kubernetes: Redacted
 ** http://www.foggyubiquity.com/slides/kubernetes-illusion-control.html[1. Illusion of Control]
 ** http://www.foggyubiquity.com/slides/kubernetes-on-metal.html[2. On Metal (Working Guide)]
+** http://www.foggyubiquity.com/slides/containizen.html[3. Containizen]
 
